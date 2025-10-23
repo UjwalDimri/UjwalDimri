@@ -4,7 +4,7 @@
 <h3 align="center">B.Tech CSE Student at UPES | 1st Year</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujwal-dimri/" target="_blank">
+  <a href="https://www.linkedin.com/in/ujwal-dimri-82400729a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
