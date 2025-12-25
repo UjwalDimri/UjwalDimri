@@ -1,34 +1,32 @@
-<!-- Profile README for Ujwal Dimri -->
-
-<h1 align="center">Hi 👋, I'm Ujwal Dimri</h1>
-
+<!-- ===================== MATRIX RAIN HEADER ===================== -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+at+UPES;1st+Year+Programmer;Linux+%7C+C+%7C+Web+Development;Open+Source+Enthusiast"
-    alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Ujwal%20Dimri&fontSize=50&fontColor=00ff9c&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 Learning • Building • Exploring</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=1st+Year+B.Tech+CSE+Student+@+UPES;C+%7C+Linux+%7C+HTML+%7C+CSS;Learning+Systems+and+Software;Build.+Break.+Learn.+Repeat." />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujwal-dimri-82400729a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **1st-year B.Tech CSE student** at **UPES Dehradun**
-- 🐧 Exploring **Linux & System Programming**
-- 💻 Learning **C, HTML & CSS**
-- 🚀 Interested in **Open Source & Dev Technologies**
-- 🌱 Believer in *learning by building*
+- 🎓 **B.Tech CSE (1st Year)** at **UPES Dehradun**
+- 🐧 Learning **Linux & system-level programming**
+- 💻 Strong interest in **C programming**
+- 🌐 Exploring **HTML & CSS**
+- 🚀 Curious about **Open Source & DevOps**
+- 🧠 Believe in *learning by building things*
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,7 +37,18 @@
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Projects
 
-- 📧 **Email:** [ujwaldimri223@email.com](mailto:ujwaldimri223@email.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/ujwal-dimri](ht)
+### 🍽️ Mess Management System
+- Console-based hostel mess management system  
+- Focus on **file handling, structures, and logic**
+- **Tech:** C, Linux  
+- 🔗 https://github.com/ujwaldimri/mess-management-system
+
+---
+
+### 🚆 Railway Reservation System
+- Ticket booking simulation with seat allocation  
+- Strengthened understanding of **arrays & functions**
+- **Tech:** C  
+- 🔗 https://github.com/ujwaldimri/railway-r
