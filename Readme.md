@@ -1,54 +1,52 @@
-<!-- ===================== MATRIX RAIN HEADER ===================== -->
+<!-- ================= TERMINAL × CYBERPUNK GITHUB PROFILE ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Ujwal%20Dimri&fontSize=50&fontColor=00ff9c&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ujwal%20Dimri&fontSize=52&fontColor=00ffcc&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=1st+Year+B.Tech+CSE+Student+@+UPES;C+%7C+Linux+%7C+HTML+%7C+CSS;Learning+Systems+and+Software;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=720&lines=~%24+whoami;B.Tech+CSE+Student+@+UPES;C+%7C+Linux+%7C+HTML+%7C+CSS;Terminal+Mindset+%7C+Cyberpunk+Vibes" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujwal-dimri-82400729a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 `$ cat about_me.txt`
 
-- 🎓 **B.Tech CSE (1st Year)** at **UPES Dehradun**
-- 🐧 Learning **Linux & system-level programming**
-- 💻 Strong interest in **C programming**
-- 🌐 Exploring **HTML & CSS**
-- 🚀 Curious about **Open Source & DevOps**
-- 🧠 Believe in *learning by building things*
+```bash
+Name        : Ujwal Dimri
+Degree      : B.Tech CSE (1st Year)
+University  : UPES Dehradun
+Focus       : Core CS & Systems
+Interests   : C, Linux, Web
+Mindset     : Learn → Build → Break → Fix
+```
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ `$ ls skills/`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=ff6f00" />
+  <img src="https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=00bfff" />
+  <img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=yellow" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 `$ tree projects/`
 
-### 🍽️ Mess Management System
-- Console-based hostel mess management system  
-- Focus on **file handling, structures, and logic**
-- **Tech:** C, Linux  
-- 🔗 https://github.com/ujwaldimri/mess-management-system
-
----
-
-### 🚆 Railway Reservation System
-- Ticket booking simulation with seat allocation  
-- Strengthened understanding of **arrays & functions**
-- **Tech:** C  
-- 🔗 https://github.com/ujwaldimri/railway-r
+```text
+projects/
+├── mess-management-system/        [IN PROGRESS 🚧]
+│   ├── tech   : C, Linux
+│   ├── goal   : Hostel mess management system
+│   └── focus  : File handling, structures, logic building
+│
+├── railway-reservation-system/
+│   ├── tech   : C
+│   └── desc
