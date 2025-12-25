@@ -1,52 +1,68 @@
-<!-- ================= TERMINAL × CYBERPUNK GITHUB PROFILE ================= -->
+<!-- Profile README for Ujwal Dimri -->
+
+<h1 align="center">Hi 👋, I'm Ujwal Dimri</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ujwal%20Dimri&fontSize=52&fontColor=00ffcc&animation=twinkling" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+at+UPES;1st+Year+Programmer;Linux+%7C+C+%7C+Web+Development;Open+Source+Enthusiast"
+    alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=720&lines=~%24+whoami;B.Tech+CSE+Student+@+UPES;C+%7C+Linux+%7C+HTML+%7C+CSS;Terminal+Mindset+%7C+Cyberpunk+Vibes" />
-</p>
+<h3 align="center">🚀 Learning • Building • Exploring</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ujwal-dimri-82400729a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 `$ cat about_me.txt`
+### 👨‍💻 About Me
 
-```bash
-Name        : Ujwal Dimri
-Degree      : B.Tech CSE (1st Year)
-University  : UPES Dehradun
-Focus       : Core CS & Systems
-Interests   : C, Linux, Web
-Mindset     : Learn → Build → Break → Fix
-```
+- 🎓 **1st-year B.Tech CSE student** at **UPES Dehradun**
+- 🐧 Exploring **Linux & System Programming**
+- 💻 Learning **C, HTML & CSS**
+- 🚀 Interested in **Open Source & Dev Technologies**
+- 🌱 Believer in *learning by building*
 
 ---
 
-## 🛠️ `$ ls skills/`
+### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=ff6f00" />
-  <img src="https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=00bfff" />
-  <img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🚀 `$ tree projects/`
+### 📫 Connect with Me
 
-```text
-projects/
-├── mess-management-system/        [IN PROGRESS 🚧]
-│   ├── tech   : C, Linux
-│   ├── goal   : Hostel mess management system
-│   └── focus  : File handling, structures, logic building
-│
-├── railway-reservation-system/
-│   ├── tech   : C
-│   └── desc
+- 📧 **Email:** [ujwaldimri223@email.com](mailto:ujwaldimri223@email.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/ujwal-dimri](https://www.linkedin.com/in/ujwal-dimri-82400729a/)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ujwaldimri&show_icons=true&theme=radical&hide_border=true" 
+    width="420" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwaldimri&layout=compact&theme=radical&hide_border=true" 
+    width="320" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> 🌌 **"Even in the first year, I'm already coding my universe!"** 💻🚀
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujwaldimri&label=Profile%20Views&color=36BCF7&style=flat" />
+</p>
