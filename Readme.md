@@ -2,21 +2,9 @@
      Profile README for Ujwal Dimri
      =============================== -->
 
-<h1 align="center">Hi 👋, I'm Ujwal Dimri</h1>
+# Hi 👋, I'm Ujwal Dimri
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+at+UPES;1st+Year+Programmer;Linux+%7C+C+%7C+Web+Development;DevOps+Enthusiast"
-    alt="Typing SVG" />
-</p>
-
-<h3 align="center">🚀 Learning • Building • Exploring</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujwal-dimri-82400729a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🚀 Learning • Building • Exploring
 
 ---
 
@@ -32,26 +20,33 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔥 GitHub Activity (Stable)
+## 🎯 Goals
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=UjwalDimri&theme=tokyonight&hide_border=true" 
-    width="450" />
-</p>
+- Become a **DevOps Engineer**
+- Build strong foundations in **Web Development**
+- Contribute to **Open Source**
+- Learn **Cloud Technologies**
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [ujwaldimri223@gmail.com](mailto:ujwaldimri223@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/ujwal-dimri-82400729a](https://www.linkedin.com/in/uj)
+- 📧 Email: **ujwaldimri223@gmail.com**
+- 🎓 Student Email: **Ujwal.22777@stu.upes.ac.in**
+- 🔗 LinkedIn:  
+  👉 https://www.linkedin.com/in/ujwal-dimri-82400729a/
+- 💻 GitHub:  
+  👉 https://github.com/UjwalDimri
+
+---
+
+## ⚡ Fun Fact
+
+> 🌌 *First year today, DevOps engineer tomorrow.* 🚀
