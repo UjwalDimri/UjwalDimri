@@ -52,14 +52,17 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats (Stable Version)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=UjwalDimri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=UjwalDimri&show_icons=true&hide_border=true" 
     width="420" />
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalDimri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalDimri&layout=compact&hide_border=true" 
     width="320" />
 </p>
 
@@ -67,7 +70,7 @@
 
 ## ⚡ Fun Fact
 
-> 🌌 **"Even in the first year, I'm already building my DevOps journey."** 🚀💻
+> 🌌 **"First year today, DevOps engineer tomorrow."** 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UjwalDimri&label=Profile%20Views&color=36BCF7&style=flat" />
