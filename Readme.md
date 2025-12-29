@@ -1,52 +1,82 @@
-<!-- ===============================
-     Profile README for Ujwal Dimri
-     =============================== -->
+<!-- =====================================
+     Minimal + Aesthetic + 3D Vibe README
+     Ujwal Dimri
+     ===================================== -->
 
-# Hi 👋, I'm Ujwal Dimri
+<h1 align="center">Ujwal Dimri</h1>
 
-### 🚀 Learning • Building • Exploring
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech CSE (1st Year)** at **UPES Dehradun**
-- 🐧 Exploring **Linux & System Programming**
-- 💻 Learning **C, HTML & CSS**
-- 🚀 Interested in **DevOps & Cloud**
-- 🌱 Believe in *learning by building*
+<p align="center">
+  <i>B.Tech CSE (1st Year) • UPES Dehradun</i><br/>
+  <b>Learning • Building • Exploring</b>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🎯 Goals
-
-- Become a **DevOps Engineer**
-- Build strong foundations in **Web Development**
-- Contribute to **Open Source**
-- Learn **Cloud Technologies**
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **ujwaldimri223@gmail.com**
-- 🎓 Student Email: **Ujwal.22777@stu.upes.ac.in**
-- 🔗 LinkedIn:  
-  👉 https://www.linkedin.com/in/ujwal-dimri-82400729a/
-- 💻 GitHub:  
-  👉 https://github.com/UjwalDimri
+<!-- ===== 3D STYLE NAME ILLUSION (PURE SVG – SAFE) ===== -->
+<p align="center">
+<svg width="600" height="120" viewBox="0 0 600 120">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9B59B6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="55%" text-anchor="middle"
+        font-size="42"
+        font-family="monospace"
+        fill="url(#grad)"
+        style="letter-spacing:2px;">
+    DEVOPS • WEB • LINUX
+  </text>
+</svg>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## About
 
-> 🌌 *First year today, DevOps engineer tomorrow.* 🚀
+I am a **first-year Computer Science student** at **UPES, Dehradun**, focused on building strong fundamentals in programming and systems.
+
+I enjoy working close to the system level, exploring **Linux**, and gradually moving towards **DevOps and Web Development**.
+
+I believe consistency beats intensity.
+
+---
+
+## Skills
+
+- **Programming:** C  
+- **Web:** HTML, CSS  
+- **Systems:** Linux  
+- **Interests:** DevOps, Cloud, Open Source  
+
+---
+
+## Education
+
+**B.Tech – Computer Science & Engineering**  
+University of Petroleum and Energy Studies (UPES)  
+*2024 – 2029*
+
+---
+
+## Connect
+
+- 📧 **Email:** ujwaldimri223@gmail.com  
+- 🎓 **Student Email:** Ujwal.22777@stu.upes.ac.in  
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/ujwal-dimri-82400729a/  
+- 💻 **GitHub:**  
+  https://github.com/UjwalDimri  
+
+---
+
+<!-- ===== ASCII 3D TERMINAL VIBE ===== -->
+```text
+┌──────────────────────────────────────┐
+│  user@linux:~$ whoami                │
+│  ujwal_dimri                         │
+│                                      │
+│  role: future_devops_engineer        │
+│  status: learning_every_day          │
+└──────────────────────────────────────┘
