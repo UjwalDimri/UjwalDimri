@@ -24,8 +24,8 @@
 
 - 🎓 **B.Tech CSE (1st Year)** at **UPES Dehradun**
 - 🐧 Exploring **Linux & System Programming**
-- 💻 Learning **C, HTML, CSS & JavaScript**
-- 🚀 Interested in **DevOps & Open Source**
+- 💻 Learning **C, HTML & CSS**
+- 🚀 Interested in **DevOps & Cloud**
 - 🌱 Believe in *learning by building*
 
 ---
@@ -36,10 +36,17 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+---
+
+## 🔥 GitHub Activity (Stable)
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=UjwalDimri&theme=tokyonight&hide_border=true" 
+    width="450" />
 </p>
 
 ---
@@ -47,31 +54,4 @@
 ## 📫 Connect With Me
 
 - 📧 **Email:** [ujwaldimri223@gmail.com](mailto:ujwaldimri223@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/ujwal-dimri-82400729a](https://www.linkedin.com/in/ujwal-dimri-82400729a/)
-- 💻 **GitHub:** [github.com/UjwalDimri](https://github.com/UjwalDimri)
-
----
-
-## 🔥 GitHub Stats (Stable Version)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UjwalDimri&show_icons=true&hide_border=true" 
-    width="420" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalDimri&layout=compact&hide_border=true" 
-    width="320" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> 🌌 **"First year today, DevOps engineer tomorrow."** 🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjwalDimri&label=Profile%20Views&color=36BCF7&style=flat" />
-</p>
+- 🔗 **LinkedIn:** [linkedin.com/in/ujwal-dimri-82400729a](https://www.linkedin.com/in/uj)
