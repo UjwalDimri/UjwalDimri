@@ -34,10 +34,12 @@ I believe growth is orbital — slow, steady, and unstoppable.
 
 ## 🌠 Skills
 
-- **Programming:** C  
-- **Web:** HTML, CSS  
-- **Systems:** Linux  
-- **Interests:** DevOps, Cloud, Open Source  
+- **Programming:** C  , Python 
+- **Web:** HTML, CSS  , JavaScript 
+- **Systems:** Linux
+- **Backend** Node.js , Express.js 
+- **Interests:** DevOps, Cloud, Open Source
+   
 
 ---
 
