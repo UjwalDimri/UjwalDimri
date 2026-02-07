@@ -45,7 +45,7 @@ I believe growth is orbital — slow, steady, and unstoppable.
 
 **B.Tech – Computer Science & Engineering**  
 University of Petroleum and Energy Studies (UPES)  
-*2024 – 2029*
+*2025 – 2029*
 
 ---
 
