@@ -38,6 +38,7 @@ I believe growth is orbital — slow, steady, and unstoppable.
 - **Web:** HTML, CSS  , JavaScript ,Node.js , Express.js
 - **Systems:** Linux
 - **Backend** Node.js , Express.js
+- **DataBase** SQL,MongoDB
 - **API-TestingTools** PostMan , Hoppscotch 
 - **Interests:** DevOps, Cloud, Open Source
    
