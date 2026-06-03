@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Ujwal Dimri</h1>
 
 <p align="center">
-  <i>B.Tech CSE (1st Year) • UPES Dehradun</i><br/>
+  <i>B.Tech CSE (2nd Year) • UPES Dehradun</i><br/>
   <b>Exploring the Tech Universe</b> 🌌
 </p>
 
