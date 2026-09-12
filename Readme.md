@@ -24,7 +24,7 @@
 
 ## 🪐 About Me
 
-I am a **first-year Computer Science student** at **UPES, Dehradun**, navigating through the vast universe of technology.
+I am a **Second-Year Computer Science student** at **UPES, Dehradun**, navigating through the vast universe of technology.
 
 I enjoy working close to systems, exploring **Linux**, and building strong fundamentals in **programming and web development**, with a long-term goal of becoming a **DevOps Engineer**.
 
